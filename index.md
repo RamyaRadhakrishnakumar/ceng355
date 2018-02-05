@@ -8,7 +8,9 @@ title: simple site
 Example Blog.
 -------------
 
- 
+ # February 5,2018
+**Proposal**
+[Click the link](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/ProjectProposalStudentNameRev03.docx)
 
 ### September 20, 2017
 
