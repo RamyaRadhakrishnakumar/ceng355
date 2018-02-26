@@ -4,10 +4,8 @@
 
 
 # February 12,2018
-**Software Requirement Specifications**
-[Click the link]()
-**Work Breakdown**
-[Click the link](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Work%20Breakdown.docx)
+[Software Requirement Specifications]()
+[Work Breakdown](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Work%20Breakdown.docx)
 
 
 # February 5,2018
