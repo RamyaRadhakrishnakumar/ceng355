@@ -8,11 +8,12 @@
 **Software Requirement Specifications**
 [Click the link]()
 **Work Breakdown**
-[Click the link]()
+[Click the link](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Work%20Breakdown.docx)
 
 
 # February 5,2018
 **Proposal**
+
 [Click for the word doc](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/ProjectProposalStudentNameRev03.docx)
 
 [Click for the excel doc](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/ProposalContentStudentNameRev03.xlsx)
