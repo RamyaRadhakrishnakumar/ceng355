@@ -4,7 +4,7 @@ Filled the Declaration, Abstract and Introduction to the [Technical Report](http
 
 
 # February 12,2018
-Just did a rough draft and stuufs for the [Software Requirement Specifications](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/srs_e-money.docx) of the project.
+Just did a rough draft and some diagrams for the [Software Requirement Specifications](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/srs_e-money.docx) of the project.
 
 And also worked on the [Work Breakdown](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Work%20Breakdown.docx) to be carried out among the group members.
 
