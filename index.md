@@ -12,8 +12,8 @@ And also worked on the [Work Breakdown](https://github.com/RamyaRadhakrishnakuma
 # February 5,2018
 **Proposal**
 
-Developed the excel document for the proposal which can me found in the [Link](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/ProposalContentStudentNameRev03.xlsx)
+Developed the excel document for the proposal which can me found in the [Link](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/ProposalContentStudentNameRev03.xlsx).
 
-The word document can be found by [Clicking](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/ProjectProposalStudentNameRev03.docx)
+The word document can be found by [Clicking](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/ProjectProposalStudentNameRev03.docx).
 
 
