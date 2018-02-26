@@ -1,6 +1,6 @@
 
 # February 26,2018
-[Technical Report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Technical%20Report.docx)
+Filled the Declaration, Abstract and Introduction to the [Technical Report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Technical%20Report.docx)
 
 
 # February 12,2018
