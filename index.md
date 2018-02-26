@@ -4,7 +4,8 @@
 
 
 # February 12,2018
-[Software Requirement Specifications]()
+[Software Requirement Specifications](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/srs_e-money.docx)
+
 [Work Breakdown](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Work%20Breakdown.docx)
 
 
