@@ -1,7 +1,7 @@
 
 # February 26,2018
 **Technical Report**
-[Click the link]()
+[Technical Report]()
 
 
 # February 12,2018
