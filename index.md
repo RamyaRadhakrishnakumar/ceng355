@@ -1,6 +1,7 @@
 
 # March 1,2018
-Worked on the software application by adding some methods and layouts as you can see:()
+Worked on the software application by adding some methods and layouts as you can see:(https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-1.png)
+(https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-2.png)
 
 
 # February 26,2018
