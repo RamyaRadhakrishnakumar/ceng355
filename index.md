@@ -1,5 +1,5 @@
 # March 5,2018
-A [progress report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Screen%20Shot%202018-03-05%20at%202.04.40%20PM.png) on the project since week 3
+A [progress report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Gmail%20-%20Re_%20Week%205%20Status%20Report%20of%20CENG%20355%20E-Money%20Project.pdf) on the project since week 3
 
 # March 1,2018
 Worked on the software application by adding some methods and layouts to the mobile application
