@@ -1,4 +1,8 @@
 
+# March 1,2018
+Worked on the software application by adding some methods and layouts as you can see:()
+
+
 # February 26,2018
 Filled the Declaration, Abstract and Introduction to the [Technical Report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Technical%20Report.docx)
 
