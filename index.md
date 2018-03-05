@@ -12,6 +12,7 @@ Pictures showing the sensors are in proper working condition
 # March 1,2018
 Worked on the software application by adding some methods and layouts to the mobile application
 ![alt layout](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/img.png)
+
 ![alt methods](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/img1.png)
 
 
