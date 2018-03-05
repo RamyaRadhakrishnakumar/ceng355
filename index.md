@@ -1,6 +1,7 @@
 
 # March 1,2018
-Worked on the software application by adding some methods and layouts as you can see:(https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-1.png)
+Worked on the software application by adding some methods and layouts as you can see:
+[Imagealt1](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-1.png raw=yes)
 (https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-2.png)
 
 
