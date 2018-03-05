@@ -3,7 +3,7 @@ A [progress report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/maste
 
 # March 1,2018
 Worked on the software application by adding some methods and layouts to the mobile application
-![alt layout](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-1.png)
+![alt layout](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/img.png)
 ![alt methods](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-2.png)
 
 
