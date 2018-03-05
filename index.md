@@ -2,7 +2,7 @@
 # March 1,2018
 Worked on the software application by adding some methods and layouts as you can see
 ![alt layout](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-1.png)
-(https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-2.png)
+![alt methods](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/PastedGraphic-2.png)
 
 
 # February 26,2018
