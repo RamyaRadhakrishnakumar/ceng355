@@ -4,7 +4,9 @@ A [progress report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/maste
 
 # March 3,2018
 A picture showing the sensors are in working condition
+
 ![alt fingerprint](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/lightup.jpg)
+
 ![alt QRscanner](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Qr.PNG)
 
 # March 1,2018
