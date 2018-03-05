@@ -3,7 +3,7 @@ A [progress report](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/maste
 
 
 # March 3,2018
-A picture showing the sensors are in working condition
+Pictures showing the sensors are in proper working condition
 
 ![alt fingerprint](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/fingerprint.png)
 
