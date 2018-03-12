@@ -1,8 +1,8 @@
 # March 10,2018
 Some chnages to the orientation of the application:
-![alt login]
-![alt enroll]
-![alt ]
+![alt login]()
+![alt enroll]()
+![alt ]()
 
 
 # March 5,2018
