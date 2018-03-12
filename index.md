@@ -1,9 +1,9 @@
 # March 12,2018
-A [progress report 2](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Gmail%20-%20Re_%20Week%205%20Status%20Report%20of%20CENG%20355%20E-Money%20Project.pdf) on the project since week 3
+A [progress report 2](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Gmail%20-%20Re_%20Week%205%20Status%20Report%20of%20CENG%20355%20E-Money%20Project.pdf) from week 5 to week 6.
 
 
 # March 5,2018
-A [progress report 1](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Gmail%20-%20Re_%20Week%205%20Status%20Report%20of%20CENG%20355%20E-Money%20Project.pdf)
+A [progress report 1](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Gmail%20-%20Re_%20Week%205%20Status%20Report%20of%20CENG%20355%20E-Money%20Project.pdf) on the project since week 3.
 
 
 # March 3,2018
