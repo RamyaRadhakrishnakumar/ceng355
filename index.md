@@ -1,7 +1,7 @@
 # March 10,2018
 Some chnages to the orientation of the application:
 ![alt login]()
-![alt enroll]()
+![alt enrol](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/week6/enrol.PNG)
 ![alt ]()
 
 
