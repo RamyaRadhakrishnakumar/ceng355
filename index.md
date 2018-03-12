@@ -5,7 +5,7 @@ Some chnages to the orientation of the application:
 
 ![alt enrol](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/week6/enrol.PNG)
 
-![alt transfer]()
+![alt transfer](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/week6/transfer.PNG)
 
 
 # March 5,2018
