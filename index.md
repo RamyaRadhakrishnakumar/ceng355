@@ -1,5 +1,8 @@
-# March 12,2018
-A [progress report 2](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/Gmail%20-%20Re_%20Week%205%20Status%20Report%20of%20CENG%20355%20E-Money%20Project.pdf) from week 5 to week 6.
+# March 10,2018
+Some chnages to the orientation of the application:
+![alt login]
+![alt enroll]
+![alt ]
 
 
 # March 5,2018
