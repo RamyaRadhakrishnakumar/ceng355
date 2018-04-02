@@ -1,11 +1,11 @@
 # April 2,2018
 GUI for Fingerprint:
 
-![alt guiFP]()
+![alt guiFP](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/fingerprint%20gui.PNG)
 
 GUI for QR:
 
-![alt guiQR]()
+![alt guiQR](https://github.com/RamyaRadhakrishnakumar/ceng355/blob/master/qr%20code%20scanner%20gui.PNG)
 
 
 # March 10,2018
