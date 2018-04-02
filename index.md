@@ -1,3 +1,13 @@
+# April 2,2018
+GUI for Fingerprint:
+
+![alt guiFP]()
+
+GUI for QR:
+
+![alt guiQR]()
+
+
 # March 10,2018
 Some chnages to the orientation of the application:
 
